@@ -2,7 +2,7 @@
 
 Visor gráfico de redes para Linux usando Qt framework
 
-[IMPORTAR IMAGEN]
+![Captura de pantalla-2](https://user-images.githubusercontent.com/39843782/84333945-cadc4280-ab99-11ea-98b1-cf60a63ae2c5.png)
 
 ## Descripción
 TzuyuViewer Connections Linux: Es un visor gráfico para las conexiones de red para entornos GNU Linux, programado en Qt C++
@@ -41,7 +41,7 @@ Recorrer  /proc/pid/fd/ para recopilar "inode list" y datos asociados de "comman
 
 # ¿Como contruirlo?
 
-## Instalar las dependencias de compilacion.
+## Instalar las dependencias de compilación.
 
 ```bash
 $ sudo apt-get install build-essential
