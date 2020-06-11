@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=Visor gráfico de redes para Linux usando Qt framework
+Comment=Visor gráfico de redes para Linux usando Qt framework
+Exec=tcpview
+GenericName[en_US]=tcpview
+GenericName=tcpview
+Icon=tcpvieww
+MimeType=
+Name[en_US]=TzuyuViewer Connections Linux
+Name=TzuyuViewer Connections Linux
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

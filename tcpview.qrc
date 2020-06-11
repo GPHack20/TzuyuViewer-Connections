@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/tcpvieww.svg</file>
+        <file>translations/language_en.qm</file>
+        <file>translations/language_ru.qm</file>
+        <file>translations/language_es.qm</file>
+    </qresource>
+</RCC>
